@@ -17,6 +17,8 @@ We want LRUG to be a diverse and inclusive community, united by an interest in R
 
  * [Code of Conduct](#code-of-conduct)
    * [Incident Handling](#incident-handling)
+     * [Volunteer Team](#volunteer-team)
+     * [Incident Handling Procedure](#incident-handling-procedure)
  * [Meetings](#meetings)
    * [Talks](#talks)
      * [Scheduling](#scheduling)
@@ -24,6 +26,9 @@ We want LRUG to be a diverse and inclusive community, united by an interest in R
      * [Resources for Speakers](#resources-for-speakers)
      * [Timing](#timing)
    * [After The Talks](#after-the-talks)
+ * [Mailing List](#mailing-list)
+   * [Rules of the List](#rules-of-the-list)
+   * [Job Ads](#job-ads)
  * [Sponsorship](#sponsorship)
  * [About This Document](#about-this-document)
    * [License](#license)
@@ -36,10 +41,12 @@ It’s of primary importance that everyone who wants to participate feels safe a
  * be considerate of people’s time and attention
  * contribute positively and constructively to discussions (online or in-person)
 
-On the mailing list, we want to maintain a high signal-to-noise ratio and while the organisers will step in as soon as they see poor behaviour, we encourage you to say something if you see it first.  So please:
+On the mailing list, we want to maintain a high signal-to-noise ratio, so please:
 
- * lead by example — if a discussion is devolving into snark and name-calling, either let it die or raise the tone
- * keep standards high — if someone acts disrespectfully, make that crystal clear to them
+ * lead by example — keep your emails on topic, we’re all here to talk about ruby specifically and development in general
+ * keep standards high — email is a text-only medium and jokes can be easily misinterpreted; remember that you’re talking to several hundred strangers, not 10 close friends
+
+If you see someone actings disrespectfully, either online or at an event, please make it known to one of the organisers or volunteers in person or by emailing [complaints@lrug.org](mailto:complaints@lrug.org).
 
 ### Incident Handling
 
@@ -54,7 +61,7 @@ All LRUG participants are accountable for their own behaviour. If you’ve behav
 If you experience or witness any harassing behaviour, please report it
 to a member of the [volunteer team](#volunteer-team).
 
-#### Volunteer team
+#### Volunteer Team
 
  * [Aanand](http://aanandprasad.com/) ([@aanand](http://twitter.com/aanand), [aanand.prasad@gmail.com](mailto:aanand.prasad@gmail.com))
  * [Tom](http://codon.com/) ([@tomstuart](http://twitter.com/tomstuart), [tom@codon.com](mailto:tom@codon.com))
@@ -65,6 +72,22 @@ If you'd like to join the volunteer team please contact
 [murray.steele@lrug.org](mailto:murray.steele@lrug.org)) or one of the
 other [volunteers](#volunteer-team).
 
+#### Incident Handling Procedure
+
+When we receive a report to [complaints@lrug.org](mailto:complaints@lrug.org) we will treat the issue depending on the severity.  The severity of the incident will be guided by reviewing the incident itself and the complaint.  There are three levels of severity:
+
+* Minor — accidental or unwitting violations of the code of conduct
+* Major — clear violation of the code of conduct
+* Massive — violations that make anyone feel unsafe
+
+This is not a 3-strikes system; if a first offense is deemed “Massive” the response will be in line with that.  However, if someone exhibits a pattern of “Minor” offenses we will proceed to “Major”, and ultimately “Massive”, responses.  Our responses to these severity levels will be:
+
+* Minor — we will privately let the culprit know they are in violation and remind them to re-read the code of conduct
+* Major — as above, plus we will place the culprit on moderation and publicly announce this
+* Massive — we will let the culprit know and announce publicly that we are banning them from participating in LRUG
+
+Banning and moderation will be across all online and offline spaces that LRUG has the ability to control.  Online this most obviously means the mailing list, but we will also try to apply this Twitter, Github, IRC and other places that LRUG members communicate.  Offline this means we will request our venue hosts to disallow those people access to our events where possible.
+
 ## Meetings
 
 We meet once a month at [Skills Matter](https://skillsmatter.com/locations/264-skills-matter-codenode), usually on the second Monday. There are typically [two talks](#talks) and then we go to [the pub](#after-the-talks). There’s always tea and coffee at Skills Matter, and sometimes there’ll be pizza; beer is limited to the pub afterwards.
@@ -74,7 +97,7 @@ To stay informed about our upcoming meetings you can:
  * subscribe to [our calendar](http://lrug.org/meeting-calendar)
  * follow the [LRUG series on lanyrd](http://lanyrd.com/series/lrug/)
  * follow [@lrug](http://twitter.com/lrug)
- * subscribe to [the mailing list](http://lrug.org/mailing-list)
+ * subscribe to [the mailing list](#mailing-list)
  * subscribe to [the lrug.org meetings RSS](http://lrug.org/rss/meetings)
 
 ### Talks
@@ -130,6 +153,50 @@ When the talks are finished, usually around 8pm, most of the group head over to 
 Just because we're in a pub doesn't mean you have to drink alcohol.  If you do choose to drink alcohol we encourage you to explore the food menu and drink responsibly.
 
 Although the venue for this part of the meeting is a pub and therefore feels more informal, be aware that the code of conduct still applies.
+
+## Mailing list
+
+The mailing-list can be found at [lrug.org/mailing-list](http://lrug.org/mailing-list).  From here you will be able to sign up, manage your account, and view the archives.  The traffic is quite variable; on some days there'll be no messages, other days there'll be several independent threads with many active participants.
+
+All messages to the list will be delivered to your inbox with ``[LRUG]`` in the subject line.  We suggest you set up mail rules or filters to keep them out of your inbox.
+
+The list exists to let the community stay in touch outside of the monthly meetings, but is open to all whether they have attended one of our meetings or not.  An average LRUG meeting attracts 100 or so people, but the list has over 1,000 members.  Be mindful of that fact when you send your messages: you're not just sending an email to a handful of friends.  To help everyone be courteous there are a handful of rules for the list:
+
+### Rules of the List
+
+New members of the mailing list will be on moderation for their first few posts to the list.
+
+Job ads are allowed on the list (see [below](#job-ads) for the rules), but the threads will be locked as soon as possible and replies deleted.
+
+Messages to the list that cause a complaint may be deleted and the thread they are a part of may be locked.
+
+When participating in the mailing list remember that it’s a text only medium so it is very easy for your humour to be misinterpreted.  You should err on the side of clarity and remember that the LRUG mailing list is not the place to try pushing the boundaries of edgy humour.
+
+Archives of the list are public; if you post something that you wish you hadn't let us know at [complaints@lrug.org](mailto:complaints@lrug.org) and we'll have it removed from the archives.
+
+Consider using tags in the subject line to let people know what your message is about.  For example consider using: ``[ANN]`` to announce something, ``[JOBS]`` for a job ad, ``[COURSES]`` for a training course, ``[OT]`` for something that's not specifically about Ruby.  This (other than [``[JOBS]``](#job-ads)) isn't a strict rule, but it can be helpful to flag your message for the type of content.
+
+### Job Ads
+
+Job ads are allowed on the mailing-list however, there are some rules and tips you should bear in mind when posting.  Following these will hopefully maximise your chance of getting useful replies, and minimise the chance of affecting the signal-to-noise ratio of the list as a whole.
+
+#### Put ``[JOBS]`` in the subject
+
+There are some people who are definitely not interested in any opportunities.  You can help them by adding ``[JOBS]`` to the start of your subject line, which they can then use to filter your email appropriate.  
+
+If you are a new list member on moderation your job ad won't be allowed onto the list without this tag, and if you are not on moderation any job ad without this tag will be deleted by the moderators. 
+
+#### Be as specific as possible
+
+Using vague phrases like "I have an opportunity at a high-profile Ruby company paying market rates" is likely to trigger a negative reaction in our members.  You'll get much more respect if you provide as much detail as possible, including specifics about the company, what they do, and why they are hiring.
+
+#### Tone
+
+Make your email as friendly and informal as possible and explain why people would want to come and work for you.  What's different about the project, what's exciting about it, etc….  The LRUG list gets a lot of job offer emails, so you want yours to stand out.  For example, don't post your job ad; let people know you are hiring and why it would be interesting to work there and people can get in touch for more details.
+
+#### Come to LRUG
+
+You might also consider coming along to a one or more of our [meetings](#meetings) and standing up at the start during the "anyone got anything to say" part to make your pitch.  You'll be able to give much more context, and actually start speaking to potential candidates directly.
 
 ## Sponsorship
 
