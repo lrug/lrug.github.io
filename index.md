@@ -17,6 +17,7 @@ We want LRUG to be a diverse and inclusive community, united by an interest in R
 
  * [Code of Conduct](#code-of-conduct)
    * [Incident Handling](#incident-handling)
+ * [Organisation Team](#organisation-team)
  * [Meetings](#meetings)
    * [Talks](#talks)
      * [Scheduling](#scheduling)
@@ -52,18 +53,25 @@ If you’re still in need of clarification, there are [a number](https://us.pyco
 All LRUG participants are accountable for their own behaviour. If you’ve behaved badly elsewhere, that may count against you here, because of the effect it has on other attendees.
 
 If you experience or witness any harassing behaviour, please report it
-to a member of the [volunteer team](#volunteer-team).
+to a member of the [organisation team](#organisation-team).
 
-#### Volunteer team
+## Organisation team
 
- * [Aanand](http://aanandprasad.com/) ([@aanand](http://twitter.com/aanand), [aanand.prasad@gmail.com](mailto:aanand.prasad@gmail.com))
- * [Tom](http://codon.com/) ([@tomstuart](http://twitter.com/tomstuart), [tom@codon.com](mailto:tom@codon.com))
+LRUG is run by a team of volunteers from the London Ruby community:
 
-If you'd like to join the volunteer team please contact
-[Murray Steele](http://h-lame.com/)
-([@hlame](http://twitter.com/hlame),
-[murray.steele@lrug.org](mailto:murray.steele@lrug.org)) or one of the
-other [volunteers](#volunteer-team).
+ * [James Adam](http://lazyatom.com) ([@lazyatom](https://twitter.com/lazyatom), [james.adam@lrug.org](mailto:james.adam@lrug.org))
+ * [Chris Lowis](http://blog.chrislowis.co.uk/) ([@chrislowis](https://twitter.com/chrislowis), [chris.lowis@lrug.org](mailto:chris.lowis@lrug.org))
+ * [Melinda Seckington](http://missgeeky.com/) ([@mseckington](https://twitter.com/mseckington), [melinda.seckington@lrug.org](mailto:melinda.seckington@lrug.org))
+ * [Tatiana Stantonian](https://github.com/binaryberry) ([@binaryberry](https://twitter.com/binaryberry), [tatiana.stantonian@lrug.org](mailto:tatiana.stantonian@lrug.org))
+ * [Murray Steele](http://h-lame.com/) ([@hlame](https://twitter.com/hlame), [murray.steele@lrug.org](mailto:murray.steele@lrug.org))
+ * [Tom Stuart](http://codon.com/) ([@tomstuart](https://twitter.com/tomstuart), [tom.stuart@lrug.org](mailto:tom.stuart@lrug.org))
+
+Feel free to contact one of the organisers directly using the details above if you have any questions or comments about LRUG.  As well as the individual details above, the following group contact details are available that will get in touch with all the organisers:
+
+ * [talks@lrug.org](mailto:talks@lrug.org) - to volunteer a [talk](#talks) or to find out about giving a talk
+ * [sponsors@lrug.org](mailto:sponsors@lrug.org) - to find out about [sponsoring](#sponsorship) LRUG events
+ * [complaints@lrug.org](mailto:complaints@lrug.org) - if you need to report an incident in relation to our [code of conduct](#code-of-conduct)
+ * [organisers@lrug.irg](mailto:organisers@lrug.org) - for general enquiries about LRUG
 
 ## Meetings
 
@@ -79,7 +87,7 @@ To stay informed about our upcoming meetings you can:
 
 ### Talks
 
-Most of our meetings have talks from community members and we're always looking for people to give a talk. If you'd like to give a talk you should get in touch with [Murray Steele](http://h-lame.com/) ([@hlame](http://twitter.com/hlame), [murray.steele@lrug.org](mailto:murray.steele@lrug.org)) and suggest it.
+Most of our meetings have talks from community members and we're always looking for people to give a talk. If you'd like to give a talk you should email [talks@lrug.org](mailto:talks@lrug.org)) and suggest it.
 
 Our goal is to accept any offered talk. If your talk is obviously about Ruby there's no question about it; you can definitely give your talk. If it's not so obviously about Ruby we'll have a discussion first to see what the hook is for Rubyists. We're quite an open-minded group, so the hook doesn't have to be that clear. In the unlikely event that it turns out that LRUG isn't a good home for your talk, we'll do our best to come up with some alternative ideas for places you could give it.
 
@@ -135,7 +143,7 @@ Although the venue for this part of the meeting is a pub and therefore feels mor
 
 LRUG is hosted by [Skills Matter](http://skillsmatter.com/) who provide the venue; make tea, coffee, & water available during the talks; film the talks; and handle registration. We don't currently need venue sponsorship or an alternate venue.
 
-There are opportunities for pizza or pizza and soft-drinks sponsorship during the meeting, or bar-tab sponsorship after the meeting at the pub. If you would like to provide sponsorship you should get in touch with: [Murray Steele](http://h-lame.com/) ([@hlame](http://twitter.com/hlame), [murray.steele@lrug.org](mailto:murray.steele@lrug.org)) to find out the prices and arrange it.
+There are opportunities for pizza or pizza and soft-drinks sponsorship during the meeting, or bar-tab sponsorship after the meeting at the pub. If you would like to provide sponsorship you should email [sponsors@lrug.org](mailto:sponsors@lrug.org)) to find out the prices and arrange it.
 
 In return for your sponsorship LRUG will:
 
@@ -166,9 +174,8 @@ welcome. There are a number of ways of contributing:
     [Github repository](https://github.com/lrug/lrug.github.io/)
  2. By proposing or suggesting your changes on the LRUG
     [mailing list](http://lrug.org/mailing-list).
- 3. By privately contacting
-    [Murray Steele](mailto:murray.steele@lrug.org) or one of the
-    [volunteer team](#volunteer-team).
+ 3. By privately contacting one of the
+    [organisation team](#organisation-team).
 
 All contributions can and will be discussed by any members of the
 community, and can be incorporated into this document when consensus
