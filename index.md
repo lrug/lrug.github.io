@@ -114,6 +114,7 @@ Whether you're a first time speaker or a conference veteran, giving a talk can b
 * Matt Abrahams from Stanford Business wrote a comprehensive set of [Tips and Techniques for More Confident and Compelling Presentations](http://www.gsb.stanford.edu/insights/matt-abrahams-tips-techniques-more-confident-compelling-presentations)
 * Jessica Stillman has written a neat summary of [5 Secrets of Public Speaking From the Best TED Presenters](http://www.inc.com/jessica-stillman/ted-speakers-on-presenting-public-speaking.html)
 * Rethink Testing have a three part [guide for new speakers](http://rethink-testing.co.uk/?p=158), covering important topics such as picking a topic to talk about, and dealing with the inevitable nerves.
+* Russell Davies has [a series of blog posts about writing good slides](http://russelldavies.typepad.com/planning/2015/11/doing-presentations.html) and Alice Bartlett has turned his advice into [a template for several bits of presentation software](http://alicebartlett.co.uk/blog/how-to-do-ok-at-slides).
 * Zach Holman's [speaking.io](http://speaking.io) is a website dedicated to public speaking. It covers all aspects of public speaking and features a couple of videos about delivering talks.
 
 #### Timing
