@@ -7,6 +7,7 @@ title: organising LRUG
 
 LRUG doesn't happen spontaneously every month it takes care and attention to detail to make sure it runs smoothly.  These pages are here to help you if it's your turn to organise one of our meetings.
 
+ * [Useful links](#useful-links)
  * [Being responsible for a meeting](#being-responsible-for-a-meeting)
    * [Arranging speakers](#arranging-speakers)
    * [Dealing with sponsors](#dealing-with-sponsors)
@@ -14,6 +15,14 @@ LRUG doesn't happen spontaneously every month it takes care and attention to det
    * [Comms](#comms)
  * [Moderating the mailing list](#moderating-the-mailing-list)
  * [Dealing with incoming mail](#dealing-with-incoming-mail)
+
+## Useful links
+
+* [Slack](https://lrug.slack.com/) - this is where all the organisers hang out; you can ask for help in here
+* [Harmonia](https://harmonia.io/teams/ukieh7/tasks) - we use harmonia to randomly assign organisers to recurring tasks and adhoc events (like moderating email)
+* [Schedule spreadsheet](https://docs.google.com/spreadsheets/d/13RNjhOF1elxSA8yaCLsEZOLf5DnwBuVQehfHJJWLB_E/edit#gid=460069181) - this spreadsheet has a summary of all the meetings, the volunteer speakers list, a list of potential sponsors, and some email templates.
+* [Mailing list admin interface](http://lists.lrug.org/admin.cgi/chat-lrug.org) and [moderation interface](http://lists.lrug.org/admindb.cgi/chat-lrug.org) - this is where we deal with the mailing list
+* [Our contact at Skills Matter: Fraser Bradbrook](mailto:fraser.bradbrook@skillsmatter.com) - this is who we pass details on to for our meetings and who we get in touch with for other questions about the venue and hosting
 
 ## Being responsible for a meeting
 
