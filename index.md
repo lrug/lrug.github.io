@@ -75,7 +75,7 @@ Feel free to contact one of the organisers directly using the details above if y
 
 ## Meetings
 
-We meet once a month at [Skills Matter](https://skillsmatter.com/locations/264-skills-matter-codenode), usually on the second Monday. There are typically [two talks](#talks) and then we go to [the pub](#after-the-talks). There’s always tea and coffee at Skills Matter, and sometimes there’ll be pizza; beer is limited to the pub afterwards.
+We meet once a month at [Skills Matter](https://skillsmatter.com/locations/264-skills-matter-codenode), usually on the second Monday. There are typically [three talks](#talks) and then we go to [the pub](#after-the-talks). There’s always tea and coffee at Skills Matter, and sometimes there’ll be pizza; beer is limited to the pub afterwards.
 
 To stay informed about our upcoming meetings you can:
 
