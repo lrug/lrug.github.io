@@ -145,15 +145,29 @@ Although the venue for this part of the meeting is a pub and therefore feels mor
 
 LRUG is hosted by [Skills Matter](http://skillsmatter.com/) who provide the venue; make tea, coffee, & water available during the talks; film the talks; and handle registration. We don't currently need venue sponsorship or an alternate venue.
 
-There are opportunities for pizza or pizza and soft-drinks sponsorship during the meeting, or bar-tab sponsorship after the meeting at the pub. If you would like to provide sponsorship you should email [sponsors@lrug.org](mailto:sponsors@lrug.org)) to find out the prices and arrange it.
-
-In return for your sponsorship LRUG will:
+We welcome sponsors of the meeting itself. In return for your sponsorship LRUG will:
 
  1. put your logo in the sponsor side-bar on the relevant meeting page on [lrug.org](http://lrug.org)
  2. mention the specifics of your sponsorship in the main details of the relevant meeting page on [lrug.org](http://lrug.org)
  3. mention the sponsorship in the meeting announcement email on [the mailing list](http://lrug.org/mailing-list)
  4. tweet about the sponsorship from [@lrug](https://twitter.com/lrug) at least once to announce it and once on the day as a reminder
- 5. mention you at the start of the meeting, and make sure you have 30seconds or so during our announcements section to talk to the group
+ 5. mention you at the start of the meeting, and make sure you have 30 seconds or so during our announcements section to talk to the group
+
+LRUG is not a legal entity and we don't have a bank account. So if you decide to sponsor a meeting we'll leave it to you to arrange and pay for things directly. We're there to help with any questions and suggestions though. We have three types of sponsorship available at each meeting, and you can choose to provide any or all in combination:
+
+### Sponsor a give-away
+
+Running a give-away is a real favourite among attendees and allows you to control the budget you have to spend as you see fit. For example [in September 2016](http://lrug.org/meetings/2016/september/) we ran a give-away of 20 books and [in May 2016](http://lrug.org/meetings/2016/may/) we gave-away 5 tickets to a popular conference. We will run the logistics of the give-away through the mailing list and announce the winners on the night. You arrange to pay for the prizes and deliver them to the winners.
+
+### Sponsor food (pizza)
+
+If you'd like to feed LRUG attendees before the meeting we normally suggest Pizza - it's a safe bet for all tastes and easy to arrange in vegetarian and vegan options. We get around 60-100 attendees for an average meeting and it's sensible to budget £400-600 for pizza. We'll get some preferred vendor details from Skills Matter (we've used Firezza pizza in the past). You pay the vendor directly and arrange to have it delivered to Skills Matter on the day in time for the meeting. We'll make sure Skills Matter know to expect it.
+
+### Sponsor drinks
+
+Skills Matter run a licensed bar that's open until 10pm. A good number of attendees like to have a drink there after the meeting, and we will put you in touch with Skills Matter who can set up a tab at the bar in the venue for the amount you specify and invoice you afterwards. It's worth budgeting £400-600 to provide drinks and we ask that you make this available as a bar tab to allow people to choose non-alcoholic drinks if they prefer.
+
+If you would like to provide sponsorship you should email [sponsors@lrug.org](mailto:sponsors@lrug.org)) to find out when the next available sponsorship slot is and arrange the details.
 
 ## About this document
 
