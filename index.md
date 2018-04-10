@@ -167,7 +167,7 @@ If you'd like to feed LRUG attendees before the meeting we normally suggest Pizz
 
 Skills Matter run a licensed bar that's open until 10pm. A good number of attendees like to have a drink there after the meeting, and we will put you in touch with Skills Matter who can set up a tab at the bar in the venue for the amount you specify and invoice you afterwards. It's worth budgeting £400-600 to provide drinks and we ask that you make this available as a bar tab to allow people to choose non-alcoholic drinks if they prefer.
 
-If you would like to provide sponsorship you should email [sponsors@lrug.org](mailto:sponsors@lrug.org)) to find out when the next available sponsorship slot is and arrange the details.
+If you would like to provide sponsorship you should email [sponsors@lrug.org](mailto:sponsors@lrug.org) to find out when the next available sponsorship slot is and arrange the details.
 
 ## About this document
 
