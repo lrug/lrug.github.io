@@ -71,7 +71,7 @@ Feel free to contact one of the organisers directly using the details above if y
  * [talks@lrug.org](mailto:talks@lrug.org) - to volunteer a [talk](#talks) or to find out about giving a talk
  * [sponsors@lrug.org](mailto:sponsors@lrug.org) - to find out about [sponsoring](#sponsorship) LRUG events
  * [complaints@lrug.org](mailto:complaints@lrug.org) - if you need to report an incident in relation to our [code of conduct](#code-of-conduct)
- * [organisers@lrug.irg](mailto:organisers@lrug.org) - for general enquiries about LRUG
+ * [organisers@lrug.org](mailto:organisers@lrug.org) - for general enquiries about LRUG
 
 ## Meetings
 
