@@ -87,7 +87,7 @@ To stay informed about our upcoming meetings you can:
 
 ### Talks
 
-Most of our meetings have talks from community members and we're always looking for people to give a talk. If you'd like to give a talk you should email [talks@lrug.org](mailto:talks@lrug.org)) and suggest it.
+Most of our meetings have talks from community members and we're always looking for people to give a talk. If you'd like to give a talk you should email [talks@lrug.org](mailto:talks@lrug.org) and suggest it.
 
 Our goal is to accept any offered talk. If your talk is obviously about Ruby there's no question about it; you can definitely give your talk. If it's not so obviously about Ruby we'll have a discussion first to see what the hook is for Rubyists. We're quite an open-minded group, so the hook doesn't have to be that clear. In the unlikely event that it turns out that LRUG isn't a good home for your talk, we'll do our best to come up with some alternative ideas for places you could give it.
 
