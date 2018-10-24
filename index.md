@@ -62,6 +62,7 @@ LRUG is run by a team of volunteers from the London Ruby community:
  * [James Adam](http://lazyatom.com) ([@lazyatom](https://twitter.com/lazyatom), [james.adam@lrug.org](mailto:james.adam@lrug.org))
  * [Chris Lowis](http://blog.chrislowis.co.uk/) ([@chrislowis](https://twitter.com/chrislowis), [chris.lowis@lrug.org](mailto:chris.lowis@lrug.org))
  * [Melinda Seckington](http://missgeeky.com/) ([@mseckington](https://twitter.com/mseckington), [melinda.seckington@lrug.org](mailto:melinda.seckington@lrug.org))
+ * [Ella Schofield](https://github.com/EllaNancyFay/) ([@EllaNancyFay](https://twitter.com/EllaNancyFay), [ella.schofield@lrug.org](mailto:ella.schofield@lrug.org))
  * [Tatiana Stantonian](https://github.com/binaryberry) ([@binaryberry](https://twitter.com/binaryberry), [tatiana.stantonian@lrug.org](mailto:tatiana.stantonian@lrug.org))
  * [Murray Steele](http://h-lame.com/) ([@hlame](https://twitter.com/hlame), [murray.steele@lrug.org](mailto:murray.steele@lrug.org))
  * [Tom Stuart](http://codon.com/) ([@tomstuart](https://twitter.com/tomstuart), [tom.stuart@lrug.org](mailto:tom.stuart@lrug.org))
