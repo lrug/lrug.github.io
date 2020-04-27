@@ -5,7 +5,7 @@ title: README.lrug
 
 # README.lrug
 
-LRUG is a London-based community for anyone who is interested in the Ruby programming language, especially beginners.
+[LRUG](http://lrug.org) is a London-based community for anyone who is interested in the Ruby programming language, especially beginners.
 
 LRUG provides [online](http://lrug.org/mailing-list) and [offline](http://lanyrd.com/series/lrug/) opportunities to:
 
