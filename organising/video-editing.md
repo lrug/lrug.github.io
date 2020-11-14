@@ -83,7 +83,7 @@ The expected sizes of the output are always way out.  A 25 minute talk usually c
  2. `scp` to lrug.org: `sites/lrug.org/assets/videos/yyyy/mmmm/`
  3. Add to relevant `yyyy.yml` in `data/coverage` in [the lrug.org repo](https://github.com/lrug/lrug.org) as:
     ```yaml
-    mmmm: {
+    mmmm:
       title-parameterised:
       - type: video
         url: http://assets.lrug.org/videos/yyyy/mmmm/filename.mp4
