@@ -42,7 +42,9 @@ Line this up so that the logo, jingle, and 6 second title are at the start of th
  1. Drop the main video of the meeting in here so the title and jingle overlap by about 6s.
  2. Trim the main video to the start of the speakers talk, which might not be when they start to speak, use your judgement.  So far I've chosen not to include intro or applause.
  3. Trim the main video to stop at what feels like the end of the speakers talk, usually just before the applause or host saying "thanks"
- 4. Boost audio levels on the main content up to 400% (the max) by dragging the line on the audio waveform up to the top of the blue waveform section.
+ 4. Improve the audio:
+    1. Boost volume: on the main content drag the line on the audio waveform up to the top of the blue waveform section to boost the audio to 400%
+    2. Auto levels: select the main content clip and press the volume icon in the preview window then press the "Auto" button to average out the levels (helps with a quiet speaker)
  5. Check for anything you need to cut - technical hitches, interlopers annotating the screen, unexpected pet or family interruptions, etc...  It might be useful to introduce a freeze-frame and stretch it to cover problems in the video if the audio is still usable.  You can split the audio from the main content if needs be to achieve this.
 
 ## Outro
