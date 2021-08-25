@@ -12,3 +12,5 @@
 [posting-jobs-rules]: https://lrug.org/posting-jobs
 [coc]: /#code-of-conduct
 [twitter]: https://twitter.com/lrug
+[eventbrite]: https://www.eventbrite.com/o/london-ruby-user-group-28936506513
+[zoom]: https://zoom.us/

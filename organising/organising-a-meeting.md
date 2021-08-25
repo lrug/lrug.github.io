@@ -43,7 +43,11 @@ To confirm the speakers we need:
 
 ### A full agenda
 
-We run the meetings from 6:30pm to 8:00pm.  With 10 minutes or so admin at the start, that means we have about 1 hour and 20 minutes (80 minutes) to fill.  Combinations that work well:
+We run the meetings from 6:30pm to 8:00pm.  With 10 minutes or so admin at the start, that means we have about 1 hour and 20 minutes (80 minutes) to fill.  It's totally fine to not fill 80 minutes.  Getting one speaker in just so we can make an LRUG happen is good.
+
+Speakers often don't fill their allotted time, so we frequently end before our self-imposed 8pm curfew even if we have "filled" the 80 minutes.
+
+If you do have multiple talks to choose from then combinations that work well are:
 
 * one 10 minute talk, one 25 minute talk, one 40 minute talk (~75 minutes)
 * three 25 minute talks (~75 minutes)
@@ -55,12 +59,10 @@ Combinations that work, but are painful:
 
 Special combinations:
 
-* eight 10 minute talks (~80 minutes) - usually this is what we do for our February lightning talks only event.  It's a fun evening, but tough to organise so we don't do it that often.  If you have a glut of speakers though, by all means!
+* eight 10 minute talks (~80 minutes) - usually this is what we do for our February lightning talks only event.  It's a fun evening, but tough to organise so we don't do it that often.  That said, if you have a glut of speakers then by all means!
 * one 80 minute session - for a practical event, or panel discussion, or pub quiz, or something.  We wouldn't want a single speaker to talk for 80 minutes, but if someone has an idea for a interactive session that would take up the whole time then why not try it!
 
-But!  Any combination that fills roughly 80 minutes will do.  It's also fine to not fill 80 minutes.  Getting one speaker in just so we can make an LRUG happen is good.
-
-Speakers often don't fill their allotted time, so we frequently end before our self-imposed 8pm curfew.
+But!  Any combination that doesn't go over 80 minutes will do.
 
 ### What if it doesn't go smoothly
 
@@ -78,8 +80,8 @@ In this case we'll need to actually find some speakers as well as confirm them. 
 
 Once we have at least one speaker confirmed, then we are ready to announce the meeting.  This means:
 
-1. [Set up the eventbrite page so people get reserve their place](/organising/organising-a-meeting#set-up-the-eventbrite-page)
-2. [Schedule the zoom meeting](/organising/organising-a-meeting#schedule-the-zoom-meeting)
+1. [Schedule the zoom meeting](/organising/organising-a-meeting#schedule-the-zoom-meeting)
+2. [Set up the eventbrite page so people get reserve their place](/organising/organising-a-meeting#set-up-the-eventbrite-page)
 3. [Write up the meeting on lrug.org](/organising/organising-a-meeting#write-up-on-lrugorg)
 4. [Tell the mailing list about it](/organising/organising-a-meeting#tell-the-mailing-list-about-the-meeting)
 5. [Tweet about it](/organising/organising-a-meeting#tweet-about-the-meeting)
@@ -87,6 +89,16 @@ Once we have at least one speaker confirmed, then we are ready to announce the m
 Ideally we do all this the week after the previous meeting, but sometimes we do it really close to the event if we're struggling to get speakers.  It can be useful to write up placeholder versions and publish them, so that people will at least get the event into their calendars.
 
 If we have more than one speaker it can be useful to trickle the speaker announcements out over a couple of weeks in order to keep reminding people.
+
+### Schedule the zoom meeting
+
+We schedule the zoom meeting in advance so we can:
+
+1. add the link to the "online event page" in eventbrite
+2. pass on the link to the speakers well in advance
+3. get the recording properly named for the meeting
+
+We have a paid [zoom account][zoom] that allows us to have 100 attendees and store ~1Gb of recordings (or 1 meeting if the recording is bigger).
 
 ### Set up the eventbrite page
 
@@ -100,13 +112,7 @@ We like to be creative with this page, add a fun header image and create amusing
 * check that there are scheduled emails to attendees on the day to send the link out to them before 6:30pm
 * enable the waiting list in the off chance the meeting "sells out"
 
-### Schedule the zoom meeting
-
-We schedule the zoom meeting in advance so we can:
-
-1. add the link to the "online event page" in eventbrite
-2. pass on the link to the speakers well in advance
-3. get the recording properly named for the meeting
+We have a free [eventbrite account][eventbrite] and as long as we only have free tickets it should do us well forever.
 
 ### Write up on lrug.org
 

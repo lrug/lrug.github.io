@@ -26,6 +26,13 @@ We use lots of software to run LRUG:
 * [Mailing list moderation interface][mailing-list-moderation] - this is where we deal with the mailing list moderation
 * [lrug.org github repo][github-lrug.org] - the repo for the main lrug website
 * [readme.lrug.org github repo][github-readme.lrug.org] - the repo for this site
+* [twitter][twitter] - the lrug twitter account for communicating with attendees
+* [eventbrite][eventbrite] - we use this to "sell" tickets for the meetings
+* [zoom][zoom] - we have an paid account for running the remote meetings
+
+### Credentials for these services
+
+Some of these tools have shared logins (twitter, eventbrite, zoom, mailing list), some we can invite you to directly using existing accounts you have (spreadsheet, github), and some we'll invite you to directly (slack, harmonia, shared inbox).  Once you're in slack we'll work out how to pass on the credentials securely to you.  If you need logins to something you don't have a login for, shout in [slack][slack] and we'll sort you out.
 
 ## Tasks
 
