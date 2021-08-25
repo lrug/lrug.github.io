@@ -112,11 +112,27 @@ We schedule the zoom meeting in advance so we can:
 
 The write-ups are fairly straightforward, so much so you can copy the previous meeting page and replace the details.
 
-1. Change the registration url to the new eventbrite page
-2. Fill in the details of each talk in the agenda section
-3. Update the frontmatter to include `created_at` / `published_at` timestamps that are _broadly_ correct (they're used to order the pages)
-4. Make sure the date and times are correct for the announcement
-5. If you feel up to it tweak some of the wording to make the announcement unique, but this is far from a requirement - after all there are only so many way to say "please register", "hang out afterwards", "here are the talks"
+1. Change the registration url to the new eventbrite page.
+2. Change the internal links for registration - we typically have a link in the meeting details at the top of the write-up like:
+   ```
+   [register here](#sept21registration)
+   ```
+   and later a registration heading like:
+   ```
+   ## Registration {#sept21registration}
+   ```
+   this allows the links to jump to the right registration block even when the meeting info is displayed on an index page with other meetings.  Make sure you update _both_ references.
+3. Fill in the details of each talk in the agenda section - a pattern like:
+   ```
+   ### Talk title
+   [Speaker name](preferred-url) says:
+
+   > details of their talk
+   ```
+   usually covers it, but go wild if you want!
+4. Update the frontmatter to include `created_at` / `published_at` timestamps that are _broadly_ correct (they're used to order the pages)
+5. Make sure the date and times are correct for the announcement
+6. If you feel up to it tweak some of the wording to make the announcement unique, but this is far from a requirement - after all there are only so many way to say "please register", "hang out afterwards", "here are the talks"
 
 Push this up as a PR to [the lrug.org github repo][github-lrug.org] and once CI has okayed it you can merge and this will automatically deploy to lrug.org.
 
