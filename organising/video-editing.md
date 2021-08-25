@@ -3,6 +3,8 @@ layout: default
 title: LRUG Video Edting Notes
 ---
 
+Part of our [organising](/organising) documentation.
+
 # LRUG Video Editing Notes
 
 These notes refer to using iMovie and were made using 10.1.14 on macOS Catalina 10.15.5.  It might be different for versions of the OS or software.
@@ -67,14 +69,14 @@ We want to fade up the jingle and fade down the main content so that the jingle,
  3. Resolution: `720p`
  4. Quality: `custom` (drag the slider to the lowest setting `2 Mbps`)
  5. Compress: `faster`
- 
+
 Note: the resolution, quality, and compress options in the iMovie share UI are hidden by a non-obvious scroll window.
 
 The expected sizes of the output are always way out.  A 25 minute talk usually comes out about 250Mb or so, but it'll estimate at ~700Mb.  If that's not the case then we will have to compress it further with `ffmpeg`.
 
  1. Install `ffmpeg` via `brew` - the default homebrew version of `ffmpeg` installs all possible codecs and dependencies so this might take a while, but it does mean it's fully featured and can do everything
  2. Compress the output from iMovie further `ffmpeg -i input.mp4 -b:v 750k output.mp4` - the `-b 750k` part tells it to restrict data to ~750kbps.  This should give you a further 50% reduction thereabouts from the imovie export
- 
+
  If the video is still more than say 300Mb you'll want to explore further options to tradeoff quality for size.
 
 ## Upload
