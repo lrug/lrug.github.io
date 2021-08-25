@@ -38,7 +38,7 @@ Organising LRUG is split into two sets of tasks:
 
 > Note that this documents our current procedures during the COVID-19 pandemic where we're running remote meetings.  It'll be slightly different when we return to in-person meetings.
 
-Someone needs to:
+We need to:
 
 1. Schedule the meeting
 2. Confirm the speakers
@@ -50,7 +50,7 @@ More detail [over on our in-depth "organising a meeting" documentation](/organis
 
 ### Maintaining the community
 
-Outside of the meetings someone needs to:
+Outside of the meetings we need to:
 
 1. Moderate the mailing list
 2. Reply to ad-hoc email requests

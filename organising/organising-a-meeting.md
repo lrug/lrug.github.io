@@ -9,7 +9,7 @@ Part of our [organising](/organising) documentation.
 
 > Note that this documents our current procedures during the COVID-19 pandemic where we're running remote meetings.  It'll be slightly different when we return to in-person meetings.
 
-Someone needs to:
+We need to:
 
 1. [Schedule the meeting](#schedule-the-meeting)
 2. [Confirm the speakers](#confirm-the-speakers)
@@ -72,11 +72,11 @@ It doesn't always go that smoothly.
 * Speakers just don't respond
 * We don't have anyone earmarked for that meeting
 
-In this case you'll need to actually find some speakers as well as confirm them.  Check out [our tips on populating the speaker backlog](/organising/maintaining-the-community#populate-the-speaker-backlog) if you need to find speakers.  Adding an urgent "_for this month's meeting_" plea can help.
+In this case we'll need to actually find some speakers as well as confirm them.  Check out [our tips on populating the speaker backlog](/organising/maintaining-the-community#populate-the-speaker-backlog) if you need to find speakers.  Adding an urgent "_for this month's meeting_" plea can help.
 
 ## Announce the meeting
 
-Once you have at least one speaker confirmed you are ready to announce the meeting.  This means:
+Once we have at least one speaker confirmed, then we are ready to announce the meeting.  This means:
 
 1. [Set up the eventbrite page so people get reserve their place](/organising/organising-a-meeting#set-up-the-eventbrite-page)
 2. [Schedule the zoom meeting](/organising/organising-a-meeting#schedule-the-zoom-meeting)
@@ -86,7 +86,7 @@ Once you have at least one speaker confirmed you are ready to announce the meeti
 
 Ideally we do all this the week after the previous meeting, but sometimes we do it really close to the event if we're struggling to get speakers.  It can be useful to write up placeholder versions and publish them, so that people will at least get the event into their calendars.
 
-If you have more than one speaker it can be useful to trickle the speaker announcements out over a couple of weeks in order to keep reminding people.
+If we have more than one speaker it can be useful to trickle the speaker announcements out over a couple of weeks in order to keep reminding people.
 
 ### Set up the eventbrite page
 
@@ -142,7 +142,11 @@ It can be useful to tweet a few times in the lead up, and to tweet on the mornin
 
 ## Host the meeting
 
-This is quite involved, so [check out our separate "hosting the meeting" documentation](/organising/hosting-a-meeting) for all the detail.  The short version is that you need to:
+This is quite involved, so [check out our separate "hosting the meeting" documentation](/organising/hosting-a-meeting) for all the detail.
+
+It's also important to remember that just because you're responsible for organising the meeting, it doesn't mean that you need to be the person hosting the meeting that month. Yours is the power to delegate!
+
+The short version is that you need to:
 
 1. be around from about 6pm to run through logistics and AV check with the speakers.
 2. turn on the zoom recording
