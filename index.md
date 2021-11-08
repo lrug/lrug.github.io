@@ -62,7 +62,7 @@ LRUG is run by a team of volunteers from the London Ruby community:
  * [James Adam](http://lazyatom.com) ([@lazyatom](https://twitter.com/lazyatom), [james.adam@lrug.org](mailto:james.adam@lrug.org))
  * [Chris Lowis](http://blog.chrislowis.co.uk/) ([@chrislowis](https://twitter.com/chrislowis), [chris.lowis@lrug.org](mailto:chris.lowis@lrug.org))
  * [Murray Steele](http://h-lame.com/) ([@hlame](https://twitter.com/hlame), [murray.steele@lrug.org](mailto:murray.steele@lrug.org))
- * Alessandro Proserpio ([alessandro.proserpio@lrug.org](mailto:alessandro.proserpio@lrug.org)
+ * Alessandro Proserpio ([alessandro.proserpio@lrug.org](mailto:alessandro.proserpio@lrug.org))
  * [Paolo Fabbri]() ([@jabawack81](https://twitter.com/jabawack81), [paolo.fabbri@lrug.org](mailto:paolo.fabbri@lrug.org))
  * [Frederick Cheung](https://spacevatican.org/) ([@fglc2](https://twitter.com/fglc2), [frederick.cheung@lrug.org](mailto:frederick.cheung@lrug.org))
 
