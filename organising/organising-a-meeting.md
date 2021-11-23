@@ -102,15 +102,19 @@ We have a paid [zoom account][zoom] that allows us to have 100 attendees and sto
 
 ### Set up the eventbrite page
 
-We use eventbrite to collect attendee details and manage how many people can come.  Our zoom account has 100 places so we limit the eventbrite page to 95 tickets to leave room for the host and speakers.
+We use [eventbrite][eventbrite] to collect attendee details and manage how many people can come.  Our [zoom account][zoom] has 100 places so we limit the eventbrite page to 95 tickets to leave room for the host and speakers.
 
 We like to be creative with this page, add a fun header image and create amusing ticket types.  We tend not to put full meeting details into this and just point people at lrug.org where the write up is.
+
+There's a long version of how to set up these pages [over here](/organising/setting-up-an-eventbrite-meeting), but in brief:
 
 * set ticket sales to close at 5:30pm on the day
 * limit total ticket sales to 95
 * add a link to the zoom meeting as a plain link to the "online event page" - we haven't linked our zoom account, and the link works just fine.
 * check that there are scheduled emails to attendees on the day to send the link out to them before 6:30pm
 * enable the waiting list in the off chance the meeting "sells out"
+
+It does take a bit of effort though, so do [checkout the detailed version](/organising/setting-up-an-eventbrite-meeting).
 
 We have a free [eventbrite account][eventbrite] and as long as we only have free tickets it should do us well forever.
 
