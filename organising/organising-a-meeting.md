@@ -29,7 +29,7 @@ Our standard schedule is the 2nd Monday of the month, but sometimes we need to m
 
 ## Confirm the speakers
 
-Once we know the date, we can start confirming speakers.  We have a [spreadsheet of volunteers][schedule-preadsheet] where we maintain a list of current volunteers, with notes and pencilled in dates.  There are links into [our shared inbox software][shared-inbox] to the conversations with each volunteer so you can chase up the speakers.
+Once we know the date, we can start confirming speakers.  We have a [spreadsheet of volunteers][schedule-spreadsheet] where we maintain a list of current volunteers, with notes and pencilled in dates.  There are links into [our shared inbox software][shared-inbox] to the conversations with each volunteer so you can chase up the speakers.
 
 ### What we need from them
 
