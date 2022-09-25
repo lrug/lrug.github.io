@@ -12,7 +12,7 @@ Part of our [organising](/organising) documentation.
 Although we're focussed mostly on the meetings, we do need to maintain the community outside the meetings, this means:
 
 1. [Moderating the mailing list](#moderating-the-mailing-list)
-2. [Replying to ad-hoc email requests](#replying-to-adhoc-email)
+2. [Replying to ad-hoc email requests](#replying-to-ad-hoc-email)
 3. [Keeping an eye on twitter](#keeping-an-eye-on-twitter)
 4. [Populating the speaker backlog](#populating-the-speaker-backlog)
 
@@ -45,14 +45,14 @@ Note that sometimes we get an email saying something needs moderation, but the a
 
 ## Replying to ad-hoc email
 
-We currently only use [Harmonia][harmonia] to handle moderation requests.  This means that all other email to the group addresses needs someone to handle it.  All the emails are piped into our [organisers slack channel][slack-organisers-channel] to let us know about it.  We haven't quite worked out a good system for picking who will respond to these emails, but if you're the chosen main organiser for the next meeting, then you could take point on these, but ddo share the load!  We should try to reply to emails within a few days.  Everything is visible in the [shared inboxed][shared-inbox], but it can be useful to mention the gist of your responses in the [organisers slack channel][slack-organisers-channel] to keep everyone up to speed.
+We currently only use [Harmonia][harmonia] to handle moderation requests.  This means that all other email to the group addresses needs someone to handle it.  All the emails are piped into our [organisers slack channel][slack-organisers-channel] to let us know about it.  We haven't quite worked out a good system for picking who will respond to these emails, but if you're the chosen main organiser for the next meeting, then you could take point on these, but ddo share the load!  We should try to reply to emails within a few days.  Everything is visible in the [shared inbox][shared-inbox], but it can be useful to mention the gist of your responses in the [organisers slack channel][slack-organisers-channel] to keep everyone up to speed.
 
 There are 4 main email addresses with separate inboxes in the [shared inbox][shared-inbox]:
 
-* talks@lrug.org - intended for people who want to volunteer a talk, or find out about how to do that
-* sponsors@lrug.org - intended for people who want to sponsor a meeting or giveaway or something
-* complaints@lrug.org - the address in our [code of conduct][coc] that we suggest people use to get in touch
-* organisers@lrug.org - general address for other queries
+* **talks@lrug.org** - intended for people who want to volunteer a talk, or find out about how to do that
+* **sponsors@lrug.org** - intended for people who want to sponsor a meeting or giveaway or something
+* **complaints@lrug.org** - the address in our [code of conduct][coc] that we suggest people use to get in touch
+* **organisers@lrug.org** - general address for other queries
 
 Ideally people use the specific addresses for things, but as you imagine, people often just email organisers@lrug.org directly.  It's all shared anyway so not a huge problem.
 
