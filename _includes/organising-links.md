@@ -2,7 +2,7 @@
 [slack-mailing-list-channel]: https://lrug.slack.com/messages/G1PL86E2H
 [slack-organisers-channel]: https://lrug.slack.com/messages/C3RBU6E6B
 [harmonia]: https://harmonia.io/teams/ukieh7/tasks
-[shared-inbox]: https//inbox.lrug.org
+[shared-inbox]: https://inbox.lrug.org
 [schedule-spreadsheet]: https://docs.google.com/spreadsheets/d/13RNjhOF1elxSA8yaCLsEZOLf5DnwBuVQehfHJJWLB_E/edit#gid=460069181
 [mailing-list]: https://lrug.org/mailing-list
 [mailing-list-admin]: http://lists.lrug.org/admin.cgi/chat-lrug.org
