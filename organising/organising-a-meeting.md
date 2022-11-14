@@ -188,7 +188,7 @@ The short version is that you need to:
 After the meeting, we need to follow up:
 
 1. We should [edit the videos](/organising/video-editing) for the talks and post them online
-2. Email the speakers to thank them for their talks and invite them to add [coverage links](https://github.com/lrug/lrug.org/tree/master/data/coverage) for their talks (write ups, slides, relevant repos, other videos, etc...)
+2. Email the speakers to thank them for their talks and invite them to add [coverage links](https://github.com/lrug/lrug.org/tree/main/data/coverage) for their talks (write ups, slides, relevant repos, other videos, etc...)
 3. Tweet about the videos once they are posted
 
 {% include organising-links.md %}
