@@ -131,7 +131,7 @@ When proposing a talk think about the slot that it might best fit into. A slot i
 
 You shouldn't feel like you have to fill the slot you pick. If you think your talk naturally lasts 15 minutes don’t feel like you should add another 10 minutes just to "fill" a 25 minute slot, nor should you attempt to compress it down to fit in a 10 minute slot.
 
-To leave plenty of time for you to over-run, answer questions, and faff about with a laptop at the start we recommend a 30-35 mintue talk in a 40 minute slot, a 20 minute talk in a 25-minute slot, and a 5-8 minute talk in a 10 minute slot.
+To leave plenty of time for you to over-run, answer questions, and faff about with a laptop at the start we recommend a 30-35 minute talk in a 40 minute slot, a 20 minute talk in a 25-minute slot, and a 5-8 minute talk in a 10 minute slot.
 
 ### After The Talks
 
