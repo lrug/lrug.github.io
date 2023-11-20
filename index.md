@@ -79,11 +79,11 @@ We meet once a month at [Skills Matter](https://skillsmatter.com/locations/264-s
 
 To stay informed about our upcoming meetings you can:
 
- * subscribe to [our calendar](http://lrug.org/meeting-calendar)
- * follow the [LRUG series on lanyrd](http://lanyrd.com/series/lrug/)
- * follow [@lrug](http://twitter.com/lrug)
  * subscribe to [the mailing list](http://lrug.org/mailing-list)
  * subscribe to [the lrug.org meetings RSS](http://lrug.org/rss/meetings)
+ * subscribe to [our calendar](http://lrug.org/meeting-calendar)
+ * follow `@lrug` on [mastodon](https://ruby.social/@lrug) and, begrudgingly, on [twitter](https://twitter.com/lrug)
+ * follow the [LRUG account on eventbrite](https://www.eventbrite.com/o/london-ruby-user-group-28936506513)
 
 ### Talks
 
