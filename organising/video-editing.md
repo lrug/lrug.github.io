@@ -19,7 +19,7 @@ LRUG month year - speaker name - talk title
 
 ## Assets
 
- 1. [the lrug logo](http://assets.lrug.org/images/elrug_medium.jpg)
+ 1. [the lrug logo](https://assets.lrug.org/images/el-rug-logo.png)
  2. "44th Street medium" jingle - available in the "Audio" tab, there's 3 a short, medium, and long version.  We want the medium one that's 19 seconds long
  3. "Gradient black" title - available in the "Titles" tab
  4. "Futura Medium" font - it's what the title uses by default
