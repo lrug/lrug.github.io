@@ -89,7 +89,10 @@ To stay informed about our upcoming meetings you can:
 
 Most of our meetings have talks from community members and we're always looking for people to give a talk. If you'd like to give a talk you should email [talks@lrug.org](mailto:talks@lrug.org) and suggest it.
 
-Our goal is to accept any offered talk. If your talk is obviously about Ruby there's no question about it; you can definitely give your talk. If it's not so obviously about Ruby we'll have a discussion first to see what the hook is for Rubyists. We're quite an open-minded group, so the hook doesn't have to be that clear. In the unlikely event that it turns out that LRUG isn't a good home for your talk, we'll do our best to come up with some alternative ideas for places you could give it.
+Our goal is to accept any offered talk. There's more discussion on [subject matter below](#subject-matter), but in brief:
+
+* if your talk is obviously about Ruby there's no question about it; you can definitely give your talk.
+* if it's not so obviously about Ruby we'll have a discussion first to see what the hook is for Rubyists. We're quite an open-minded group, so the hook doesn't have to be that clear. In the unlikely event that it turns out that LRUG isn't a good home for your talk, we'll do our best to come up with some alternative ideas for places you could give it.
 
 #### Scheduling
 
@@ -101,9 +104,11 @@ If there is a specific future meeting that would be most convenient for you, let
 
 #### Subject Matter
 
+As [we said above](#talks), LRUG is a big tent for ideas. What connects our attendees is a love for the Ruby programming language, but that's not all we're interested in hearing about. Explicitly: we _don't_ need the talk to be directly about the Ruby programming language. If you are drawn to the group, and find your subject interesting, chances are we will too. Suggest your topic and we'll work with you to make sure it's a good fit.
+
 LRUG is a mixed-ability crowd; we have talks from first-timers just learning Ruby all the way up to people that have been using it for years. This means you can pitch your talk at any level and someone will get something out of it. It's also a mostly technical crowd, so don't shy away from getting into the nitty gritty of your topic. We'd prefer an in-depth discussion of a single aspect to a shallow overview of the whole thing.
 
-Your talk should observe the code of conduct. Any talks that don't will be stopped and the speaker asked to leave.
+**Your talk should observe the [code of conduct](#code-of-conduct)**. Any talks that don't will be stopped and the speaker asked to leave.
 
 If you are using the projector you should favour large fonts and a high contrast colour scheme with dark text on a light background in anything you show. The default settings for most presentation applications are a safe bet, but you might have to re-configure your terminal or editor if you are using those for anything. Also note that while the projector will cope with most screen resolutions, it works best at 1024x768. Most presentation applications will automatically resize, but you might want to check your slides at that resolution.
 
