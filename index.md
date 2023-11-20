@@ -26,25 +26,30 @@ We want LRUG to be a diverse and inclusive community, united by an interest in R
      * [Timing](#timing)
    * [After The Talks](#after-the-talks)
  * [Sponsorship](#sponsorship)
+   * [Meeting Sponsorship](#meeting-sponsorship)
+   * [Other Sponsorship Opportunities](#other-sponsorship-opportunities)
+     * [Sponsor a give-away](#sponsor-a-give-away)
+     * [Sponsor food (pizza)](#sponsor-food-pizza)
+     * [Sponsor drinks](#sponsor-drinks)
  * [About This Document](#about-this-document)
    * [License](#license)
 
 ## Code of Conduct
 
-It’s of primary importance that everyone who wants to participate feels safe and welcome. When participating in LRUG, either online or offline, at Skills Matter or at the pub afterwards, we expect you to:
+It’s of primary importance that everyone who wants to participate feels safe and welcome. When participating in LRUG, either online or offline, at an in-person event, or at the pub afterwards, we expect you to:
 
  * behave respectfully towards other people — they’re real humans, just like you
  * be considerate of people’s time and attention
  * contribute positively and constructively to discussions (online or in-person)
 
-On the mailing list, we want to maintain a high signal-to-noise ratio and while the organisers will step in as soon as they see poor behaviour, we encourage you to say something if you see it first.  So please:
+On the mailing list, we want to maintain a high signal-to-noise ratio and while the organisers will step in as soon as they see poor behaviour, we encourage you to say something if you see it first. So please:
 
  * lead by example — if a discussion is devolving into snark and name-calling, either let it die or raise the tone
  * keep standards high — if someone acts disrespectfully, make that crystal clear to them
 
 ### Incident Handling
 
-We want everyone to feel welcome at LRUG, regardless of gender, gender identity and expression, age, sexual orientation, disability, physical appearance, body size, race, ethnicity, religion (or lack thereof), or technology choices. Accordingly, we will not tolerate harassment of our members in any form; not at the talks, not at the pub after the talks, or any other LRUG social meeting; not on Twitter or on any other online media.
+We want everyone to feel welcome at LRUG, regardless of gender, gender identity and expression, age, sexual orientation, disability, physical appearance, body size, race, ethnicity, religion (or lack thereof), or technology choices. Accordingly, we will not tolerate harassment of our members in any form; not at the talks, not at the pub after the talks, or any other LRUG social meeting; not on the mailing list or on any other online media.
 
 Harassment includes invasions of personal space, exclusionary jokes/comments, and sexual language and imagery in talks, but this list is non-exhaustive: if you make anyone feel uncomfortable or unwelcome, you will be asked to leave.
 
@@ -66,16 +71,22 @@ LRUG is run by a team of volunteers from the London Ruby community:
  * Alessandro Proserpio ([alessandro.proserpio@lrug.org](mailto:alessandro.proserpio@lrug.org))
  * [Murray Steele](http://h-lame.com/) ([@hlame](https://ruby.social/@hlame), [murray.steele@lrug.org](mailto:murray.steele@lrug.org))
 
-Feel free to contact one of the organisers directly using the details above if you have any questions or comments about LRUG.  As well as the individual details above, the following group contact details are available that will get in touch with all the organisers:
+Feel free to contact one of the organisers directly using the details above if you have any questions or comments about LRUG. As well as the individual details above, the following group contact details are available that will get in touch with all the organisers:
 
  * [talks@lrug.org](mailto:talks@lrug.org) - to volunteer a [talk](#talks) or to find out about giving a talk
  * [sponsors@lrug.org](mailto:sponsors@lrug.org) - to find out about [sponsoring](#sponsorship) LRUG events
  * [complaints@lrug.org](mailto:complaints@lrug.org) - if you need to report an incident in relation to our [code of conduct](#code-of-conduct)
  * [organisers@lrug.org](mailto:organisers@lrug.org) - for general enquiries about LRUG
 
+During a meeting, the members of the organising team will make them selves known at the start so you can talk to them directly should anything occur during the meeting.
+
 ## Meetings
 
-We meet once a month at [Skills Matter](https://skillsmatter.com/locations/264-skills-matter-codenode), usually on the second Monday. There are typically [three talks](#talks) and then we go to [the pub](#after-the-talks). There’s always tea and coffee at Skills Matter, and sometimes there’ll be pizza; beer is limited to the pub afterwards.
+We meet once a month usually on **the second Monday of the month** (e.g. the Monday that falls between the **8th** and **14th** of the month). Occasionally we have to move the meeting from this schedule, but we'll let you know via [the mailing list](http://lrug.org/mailing-list) with plenty of time if we do.
+
+The meetings aim to open the doors at **6pm** for some networking until **6:30pm** when we start the meeting formally with some admin information. We roll on through [the talks](#talks) without a break, and aim to finish by **8pm**. If it's an in-person event, we encourage people to go to [a nearby pub](#after-the-talks) to discuss the meeting and do more networking.
+
+We do not currently have a permanent home for LRUG meetings, and so we tour the offices of various companies around London. In the most generous cases, this can mean there is food + drink available at the meeting, but you shouldn't rely on it. See our details on [sponsoring](#sponsoring) below for more details.
 
 To stay informed about our upcoming meetings you can:
 
@@ -98,7 +109,7 @@ Our goal is to accept any offered talk. There's more discussion on [subject matt
 
 Slots for talks are first-come, first-served. Once you've decided to give your talk we'll let you know when a free slot will be available at a meeting. We usually have two or three talks per meeting, so if there are four people on our list of volunteers when you offer your talk it's most likely that the third meeting is the one we'd schedule you for. Of course, people drop out or aren't available for a specific meeting so you might get a slot sooner.
 
-Our hosts, Skills Matter, request a four-week lead time for events. This means we try to arrange meetings about five or six weeks in advance. Combined with the depth of the volunteer stack, this can mean a three to four month gap between you proposing a talk and getting to give it to the group.
+Ideally we have some talks scheduled for the next meeting so we can announce them at the start of the current meeting. This means we try to arrange meetings about five or six weeks in advance. Combined with the depth of the volunteer stack, in extreme cases, this could mean a three to four month gap between you proposing a talk and getting to give it to the group.
 
 If there is a specific future meeting that would be most convenient for you, let us know and we'll do our best to accommodate that.
 
@@ -110,7 +121,7 @@ LRUG is a mixed-ability crowd; we have talks from first-timers just learning Rub
 
 **Your talk should observe the [code of conduct](#code-of-conduct)**. Any talks that don't will be stopped and the speaker asked to leave.
 
-If you are using the projector you should favour large fonts and a high contrast colour scheme with dark text on a light background in anything you show. The default settings for most presentation applications are a safe bet, but you might have to re-configure your terminal or editor if you are using those for anything. Also note that while the projector will cope with most screen resolutions, it works best at 1024x768. Most presentation applications will automatically resize, but you might want to check your slides at that resolution.
+If the event is in-person you should favour large fonts and a high contrast colour scheme with dark text on a light background in anything you show. The default settings for most presentation applications are a safe bet, but you might have to re-configure your terminal or editor if you are using those to show anything. We don't have a fixed venue, so we can't guarantee what resolution a projector will cope with. These days a 16:9 resolution is likely to work best (e.g. 1920x1080), most presentation applications will automatically scale to whatever resolution a 2nd screen has, but you might want to check your slides at that resolution just in case.
 
 #### Resources for Speakers
 
@@ -140,39 +151,57 @@ To leave plenty of time for you to over-run, answer questions, and faff about wi
 
 ### After The Talks
 
-When the talks are finished, usually around 8pm, most of the group head over to [Singer Tavern](http://singertavern.com/). This part of the meeting is your opportunity to socialise with other LRUG members and speak with the presenters about their talks.
+When the talks are finished, usually around 8pm, most of the group head over to a local pub. This part of the meeting is your opportunity to socialise with other LRUG members and speak with the presenters about their talks.
 
-Just because we're in a pub doesn't mean you have to drink alcohol.  If you do choose to drink alcohol we encourage you to explore the food menu and drink responsibly.
+Just because we're in a pub doesn't mean you have to drink alcohol. If you do choose to drink alcohol we encourage you to explore the food menu and drink responsibly.
 
-Although the venue for this part of the meeting is a pub and therefore feels more informal, be aware that the code of conduct still applies.
+Although the venue for this part of the meeting is a pub and therefore feels more informal, be aware that the [code of conduct](#code-of-conduct) still applies.
 
 ## Sponsorship
 
-LRUG is hosted by [Skills Matter](http://skillsmatter.com/) who provide the venue; make tea, coffee, & water available during the talks; film the talks; and handle registration. We don't currently need venue sponsorship or an alternate venue.
+Most importantly, we do not have a permanent home and so we need sponsorship in the form of [venues](#venue-sponsorship). We have opportunities for helping out in [other ways](#other-sponsorship-opportunities) if you'd like to enrich the LRUG experience in some way.
+
+If you would like to provide sponsorship you should email [sponsors@lrug.org](mailto:sponsors@lrug.org) to find out when the next available sponsorship slot is and arrange the details.
+
+### Venue Sponsorship
+
+LRUG does not have currently have a permanent venue — we are kindly hosted by [an array of friendly companies](https://lrug.org/sponsors/#meeting-sponsorship) across London. They let us into their office, provide some kind of AV setup, put in place any entry requirements, and, occasionally, even provide food + drink for attendees.
+
+We always need venues, and if you think your office could host us please fill out [this fairly detailed survey](https://forms.gle/vkzD11BgC15eoHdT6) to help us understand your venue, how we'd use it, and what we need to do to book it.
+
+ 1. put your logo in the "Hosted By" side-bar on the relevant meeting page on [lrug.org](https://lrug.org)
+ 2. mention the specifics of your venue + sponsorship in the main details of the relevant meeting page on [lrug.org](https://lrug.org)
+ 3. add your logo to the [meeting sponsors list](https://lrug.org/sponsors/#meeting-sponsorship) on [lrug.org](https://lrug.org/)
+ 4. mention the venue + sponsorship in the meeting announcement email on [the mailing list](http://lrug.org/mailing-list)
+ 5. mention the venue + sponsorship when we post to [@lrug](https://ruby.social/@lrug) about the meeting at least once to announce it and once on the day as a reminder (we might also do the same on _ugh_ twitter)
+ 6. thank you at the start of the meeting, and give you time during the meeting to talk to the group
+
+### Other Sponsorship Opportunities
 
 We welcome sponsors of the meeting itself. In return for your sponsorship LRUG will:
 
- 1. put your logo in the sponsor side-bar on the relevant meeting page on [lrug.org](http://lrug.org)
- 2. mention the specifics of your sponsorship in the main details of the relevant meeting page on [lrug.org](http://lrug.org)
+ 1. put your logo in the sponsor side-bar on the relevant meeting page on [lrug.org](https://lrug.org)
+ 2. mention the specifics of your sponsorship in the main details of the relevant meeting page on [lrug.org](https://lrug.org)
  3. mention the sponsorship in the meeting announcement email on [the mailing list](http://lrug.org/mailing-list)
- 4. tweet about the sponsorship from [@lrug](https://twitter.com/lrug) at least once to announce it and once on the day as a reminder
+ 4. add your logo to the [other sponsors list](https://lrug.org/sponsors/#other-sponsorship) on [lrug.org](https://lrug.org/)
+ 4. mention the sponsorship from [@lrug](https://ruby.social/@lrug) at least once to announce it and once on the day as a reminder (we might also do the same on _ugh_ twitter)
  5. mention you at the start of the meeting, and make sure you have 30 seconds or so during our announcements section to talk to the group
 
-LRUG is not a legal entity and we don't have a bank account. So if you decide to sponsor a meeting we'll leave it to you to arrange and pay for things directly. We're there to help with any questions and suggestions though. We have three types of sponsorship available at each meeting, and you can choose to provide any or all in combination:
+LRUG is not a legal entity and we don't have a bank account. So if you decide to sponsor a meeting we'll leave it to you to arrange and pay for things directly. We're there to help with any questions and suggestions though.
 
-### Sponsor a give-away
+Things that have worked well in the past are [give-aways](#sponsor-a-give-away), [food](#sponsor-food-pizza), and [drinks](#sponsor-drinks). You can choose to provide any or all in combination, but we're open to any other ideas for how to enrich the experience for our attendees.
+
+#### Sponsor a give-away
 
 Running a give-away is a real favourite among attendees and allows you to control the budget you have to spend as you see fit. For example [in September 2016](http://lrug.org/meetings/2016/september/) we ran a give-away of 20 books and [in May 2016](http://lrug.org/meetings/2016/may/) we gave-away 5 tickets to a popular conference. We will run the logistics of the give-away through the mailing list and announce the winners on the night. You arrange to pay for the prizes and deliver them to the winners.
 
-### Sponsor food (pizza)
+#### Sponsor food (pizza)
 
-If you'd like to feed LRUG attendees before the meeting we normally suggest Pizza - it's a safe bet for all tastes and easy to arrange in vegetarian and vegan options. We get around 60-100 attendees for an average meeting and it's sensible to budget £400-600 for pizza. We'll get some preferred vendor details from Skills Matter (we've used Firezza pizza in the past). You pay the vendor directly and arrange to have it delivered to Skills Matter on the day in time for the meeting. We'll make sure Skills Matter know to expect it.
+If you'd like to feed LRUG attendees before the meeting we normally suggest Pizza - it's a safe bet for all tastes and easy to arrange in vegetarian and vegan options. We get around 30-50 attendees for an average meeting and it's sensible to budget £200-300 for pizza. During the Skills Matter days we used Firezza pizza, but others are available. You pay the vendor directly and arrange to have it delivered to our venue on the day in time for the meeting start at 6pm. We'll make sure the venue know to expect it. We expect you to cater such that at least half of the food is suitable for vegetarians and vegans.
 
-### Sponsor drinks
+#### Sponsor drinks
 
-Skills Matter run a licensed bar that's open until 10pm. A good number of attendees like to have a drink there after the meeting, and we will put you in touch with Skills Matter who can set up a tab at the bar in the venue for the amount you specify and invoice you afterwards. It's worth budgeting £400-600 to provide drinks and we ask that you make this available as a bar tab to allow people to choose non-alcoholic drinks if they prefer.
-
-If you would like to provide sponsorship you should email [sponsors@lrug.org](mailto:sponsors@lrug.org) to find out when the next available sponsorship slot is and arrange the details.
+The easiest option here is to send someone with a card to the meeting, and have them create a tab in the pub afterwards. This way you can easily control your spend with a limit. Some of our venues _may_ allow for you to ship some drinks to them so attendees can drink something during the event. We can put you in touch with the venue in this case. We get around 30-50 attendees for an average meeting so it's worth budgeting £200-300 to provide drinks in a pub, probably less if you ship to the venue. Either way we expect that you make available both alcoholic and non-alcoholic options.
 
 ## About this document
 
