@@ -49,7 +49,7 @@ On the mailing list, we want to maintain a high signal-to-noise ratio and while 
 
 ### Incident Handling
 
-We want everyone to feel welcome at LRUG, regardless of gender, gender identity and expression, age, sexual orientation, disability, physical appearance, body size, race, ethnicity, religion (or lack thereof), or technology choices. Accordingly, we will not tolerate harassment of our members in any form; not at the talks, not at the pub after the talks, or any other LRUG social meeting; not on the mailing list or on any other online media.
+We want everyone to feel welcome at LRUG, regardless of gender, gender identity and expression, age, sexual orientation, disability, physical appearance, body size, race, ethnicity, religion (or lack thereof), or technology choices. Accordingly, we will not tolerate harassment of our members in any form; not at the talks, not at the pub after the talks, or any other LRUG social meeting; not on the mailing list or on any other online platform.
 
 Harassment includes invasions of personal space, exclusionary jokes/comments, and sexual language and imagery in talks, but this list is non-exhaustive: if you make anyone feel uncomfortable or unwelcome, you will be asked to leave.
 
