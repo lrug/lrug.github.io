@@ -36,7 +36,7 @@ We want LRUG to be a diverse and inclusive community, united by an interest in R
 
 ## Code of Conduct
 
-It’s of primary importance that everyone who wants to participate feels safe and welcome. When participating in LRUG, either online or offline, at an in-person event, or at the pub afterwards, we expect you to:
+It’s of primary importance that everyone who wants to participate feels safe and welcome. When participating in LRUG, either online or in-person at [a meeting](#meetings), or [the pub afterwards](#after-the-talks), we expect you to:
 
  * behave respectfully towards other people — they’re real humans, just like you
  * be considerate of people’s time and attention
