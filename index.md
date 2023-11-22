@@ -84,7 +84,9 @@ During a meeting, the members of the organising team will make themselves known 
 
 We meet once a month usually on **the second Monday of the month** (e.g. the Monday that falls between the **8th** and **14th** of the month). Occasionally we have to move the meeting from this schedule, but we'll let you know via [the mailing list](https://lrug.org/mailing-list) with plenty of time if we do.
 
-The meetings aim to open the doors at **6pm** for some networking until **6:30pm** when we start the meeting formally with some admin information. We roll on through [the talks](#talks) without a break, and aim to finish by **8pm**. If it's an in-person event, we encourage people to go to [a nearby pub](#after-the-talks) to discuss the meeting and do more networking.
+We try to meet in-person somewhere in central London, usually around the Old Street / Shoreditch / City area, although sometimes further afield depending on who can host us.  If we cannot find a venue, or there are other reasons for us not to meet in-person, we run the meetings remotely usually via zoom.  We don't currently run "hybrid" meetings with in-person and remove attendees.
+
+The meetings aim to open the doors at **6pm** for some networking until **6:30pm** when we start the meeting formally with some admin information. We roll on through [the talks](#talks) without a break, and aim to finish by **8pm**. If it's an in-person event, we encourage people to go to [a nearby pub](#after-the-talks) to discuss the meeting and do more networking.  If it's a remote event, we usually leave the call running for people to chat afterwards, although it is a diminished experience for networking.
 
 We do not currently have a permanent home for LRUG meetings, and so we tour the offices of various companies around London. In the most generous cases, this can mean there is food + drink available at the meeting, but you shouldn't rely on it. See our details on [sponsoring](#sponsoring) below for more details.
 
