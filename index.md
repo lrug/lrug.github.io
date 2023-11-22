@@ -5,9 +5,9 @@ title: README.lrug
 
 # README.lrug
 
-[LRUG](http://lrug.org) is a London-based community for anyone who is interested in the Ruby programming language, especially beginners.
+[LRUG](https://lrug.org) is a London-based community for anyone who is interested in the Ruby programming language, especially beginners.
 
-LRUG provides [online](http://lrug.org/mailing-list) and [offline](http://lrug.org/meetings) opportunities to:
+LRUG provides [online](https://lrug.org/mailing-list) and [offline](https://lrug.org/meetings) opportunities to:
 
  * discuss Ruby and related topics
  * socialise with friendly people who are interested in Ruby
@@ -82,7 +82,7 @@ During a meeting, the members of the organising team will make themselves known 
 
 ## Meetings
 
-We meet once a month usually on **the second Monday of the month** (e.g. the Monday that falls between the **8th** and **14th** of the month). Occasionally we have to move the meeting from this schedule, but we'll let you know via [the mailing list](http://lrug.org/mailing-list) with plenty of time if we do.
+We meet once a month usually on **the second Monday of the month** (e.g. the Monday that falls between the **8th** and **14th** of the month). Occasionally we have to move the meeting from this schedule, but we'll let you know via [the mailing list](https://lrug.org/mailing-list) with plenty of time if we do.
 
 The meetings aim to open the doors at **6pm** for some networking until **6:30pm** when we start the meeting formally with some admin information. We roll on through [the talks](#talks) without a break, and aim to finish by **8pm**. If it's an in-person event, we encourage people to go to [a nearby pub](#after-the-talks) to discuss the meeting and do more networking.
 
@@ -90,9 +90,9 @@ We do not currently have a permanent home for LRUG meetings, and so we tour the 
 
 To stay informed about our upcoming meetings you can:
 
- * subscribe to [the mailing list](http://lrug.org/mailing-list)
- * subscribe to [the lrug.org meetings RSS](http://lrug.org/rss/meetings)
- * subscribe to [our calendar](http://lrug.org/meeting-calendar)
+ * subscribe to [the mailing list](https://lrug.org/mailing-list)
+ * subscribe to [the lrug.org meetings RSS](https://lrug.org/rss/meetings)
+ * subscribe to [our calendar](https://lrug.org/meeting-calendar)
  * follow `@lrug` on [mastodon](https://ruby.social/@lrug) and, begrudgingly, on [twitter](https://twitter.com/lrug)
  * follow the [LRUG account on eventbrite](https://www.eventbrite.com/o/london-ruby-user-group-28936506513)
 
@@ -172,7 +172,7 @@ We always need venues, and if you think your office could host us please fill ou
  1. put your logo in the "Hosted By" side-bar on the relevant meeting page on [lrug.org](https://lrug.org)
  2. mention the specifics of your venue + sponsorship in the main details of the relevant meeting page on [lrug.org](https://lrug.org)
  3. add your logo to the [meeting sponsors list](https://lrug.org/sponsors/#meeting-sponsorship) on [lrug.org](https://lrug.org/)
- 4. mention the venue + sponsorship in the meeting announcement email on [the mailing list](http://lrug.org/mailing-list)
+ 4. mention the venue + sponsorship in the meeting announcement email on [the mailing list](https://lrug.org/mailing-list)
  5. mention the venue + sponsorship when we post to [@lrug](https://ruby.social/@lrug) about the meeting at least once to announce it and once on the day as a reminder (we might also do the same on _ugh_ twitter)
  6. thank you at the start of the meeting, and give you time during the meeting to talk to the group
 
@@ -182,7 +182,7 @@ We welcome sponsors of the meeting itself. In return for your sponsorship LRUG w
 
  1. put your logo in the sponsor side-bar on the relevant meeting page on [lrug.org](https://lrug.org)
  2. mention the specifics of your sponsorship in the main details of the relevant meeting page on [lrug.org](https://lrug.org)
- 3. mention the sponsorship in the meeting announcement email on [the mailing list](http://lrug.org/mailing-list)
+ 3. mention the sponsorship in the meeting announcement email on [the mailing list](https://lrug.org/mailing-list)
  4. add your logo to the [other sponsors list](https://lrug.org/sponsors/#other-sponsorship) on [lrug.org](https://lrug.org/)
  4. mention the sponsorship from [@lrug](https://ruby.social/@lrug) at least once to announce it and once on the day as a reminder (we might also do the same on _ugh_ twitter)
  5. mention you at the start of the meeting, and make sure you have 30 seconds or so during our announcements section to talk to the group
@@ -193,7 +193,7 @@ Things that have worked well in the past are [give-aways](#sponsor-a-give-away),
 
 #### Sponsor a give-away
 
-Running a give-away is a real favourite among attendees and allows you to control the budget you have to spend as you see fit. For example [in September 2016](http://lrug.org/meetings/2016/september/) we ran a give-away of 20 books and [in May 2016](http://lrug.org/meetings/2016/may/) we gave-away 5 tickets to a popular conference. We will run the logistics of the give-away through the mailing list and announce the winners on the night. You arrange to pay for the prizes and deliver them to the winners.
+Running a give-away is a real favourite among attendees and allows you to control the budget you have to spend as you see fit. For example [in September 2016](https://lrug.org/meetings/2016/september/) we ran a give-away of 20 books and [in May 2016](https://lrug.org/meetings/2016/may/) we gave-away 5 tickets to a popular conference. We will run the logistics of the give-away through the mailing list and announce the winners on the night. You arrange to pay for the prizes and deliver them to the winners.
 
 #### Sponsor food (pizza)
 
@@ -223,7 +223,7 @@ welcome. There are a number of ways of contributing:
     pull-request at this document's
     [Github repository](https://github.com/lrug/lrug.github.io/)
  2. By proposing or suggesting your changes on the LRUG
-    [mailing list](http://lrug.org/mailing-list).
+    [mailing list](https://lrug.org/mailing-list).
  3. By privately contacting one of the
     [organisation team](#organisation-team).
 
