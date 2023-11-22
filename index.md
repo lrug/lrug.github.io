@@ -78,7 +78,7 @@ Feel free to contact one of the organisers directly using the details above if y
  * [complaints@lrug.org](mailto:complaints@lrug.org) - if you need to report an incident in relation to our [code of conduct](#code-of-conduct)
  * [organisers@lrug.org](mailto:organisers@lrug.org) - for general enquiries about LRUG
 
-During a meeting, the members of the organising team will make them selves known at the start so you can talk to them directly should anything occur during the meeting.
+During a meeting, the members of the organising team will make themselves known at the start so you can talk to them directly should anything occur during the meeting.
 
 ## Meetings
 
