@@ -1,3 +1,5 @@
 timezone: Europe/London
 encoding: utf8
 markdown: kramdown
+# plugins:
+#   - jekyll-seo-tag
