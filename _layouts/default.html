@@ -4,7 +4,7 @@
     <meta charset="utf-8">
     <title>{{ title }}</title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    
+
     <link rel="stylesheet" type="text/css" href="https://lrug.org/styles.css" />
     <style>
       /* Temporary overrides */
@@ -15,9 +15,11 @@
         padding: 20px;
       }
     </style>
-    
+
     <link rel="shortcut icon" href="https://assets.lrug.org/favicon.ico" />
-    <link rel="icon" href="https://assets.lrug.org/favicon.ico" /> 
+    <link rel="icon" href="https://assets.lrug.org/favicon.ico" />
+    <meta name="build-revision" content="{{ site.github.build_revision }}">
+    {% seo %}
   </head>
   <body id="page">
     <div id="content">{{ content }}</div>

@@ -1,3 +1,18 @@
 timezone: Europe/London
 encoding: utf8
 markdown: kramdown
+plugins:
+  - "jekyll-github-metadata"
+  - "jekyll-seo-tag"
+repository: lrug/lrug.github.io
+social:
+  name: El Rug
+  links:
+    - https://ruby.social/@lrug
+    - https://github.com/lrug
+    - https://twitter.com/lrug
+logo: "https://assets.lrug.org/images/el-rug-logo.svg"
+locale: en_GB
+url: "https://readme.lrug.org/"
+title: README.lrug
+timezone: Europe/London
