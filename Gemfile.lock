@@ -71,6 +71,9 @@ GEM
       jekyll (>= 3.0, < 5.0)
     jekyll-feed (0.15.1)
       jekyll (>= 3.7, < 5.0)
+    jekyll-github-metadata (2.16.1)
+      jekyll (>= 3.4, < 5.0)
+      octokit (>= 4, < 7, != 4.4.0)
     jekyll-optional-front-matter (0.3.2)
       jekyll (>= 3.0, < 5.0)
     jekyll-relative-links (0.6.1)
@@ -152,6 +155,7 @@ DEPENDENCIES
   jekyll (~> 4.3)
   jekyll-commonmark
   jekyll-default-layout
+  jekyll-github-metadata
   jekyll-optional-front-matter
   jekyll-relative-links
   jekyll-sass-converter

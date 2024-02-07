@@ -1,5 +1,6 @@
 timezone: Europe/London
 encoding: utf8
 markdown: kramdown
-# plugins:
-#   - jekyll-seo-tag
+plugins:
+  - "jekyll-github-metadata"
+repository: lrug/lrug.github.io
