@@ -53,7 +53,7 @@ We want everyone to feel welcome at LRUG, regardless of gender, gender identity 
 
 Harassment includes invasions of personal space, exclusionary jokes/comments, and sexual language and imagery in talks, but this list is non-exhaustive: if you make anyone feel uncomfortable or unwelcome, you will be asked to leave.
 
-If you’re still in need of clarification, there are [a number](https://us.pycon.org/2012/codeofconduct/) of [good](https://theangryblackwoman.com/2009/10/01/the-dos-and-donts-of-being-a-good-ally/) resources [online](http://www.shakesville.com/2010/01/feminism-101.html) which we encourage you read. The main thing to remember though, is that if someone feels harassed or excluded by your words or actions, then those words or actions constitute harassment or exclusion. Your intent is *not* a factor.
+If you’re still in need of clarification, there are [a number](https://us.pycon.org/2012/codeofconduct/) of [good](https://theangryblackwoman.com/2009/10/01/the-dos-and-donts-of-being-a-good-ally/) resources [online](https://xyonline.net/content/feminism-101-helpful-hints-dudes) which we encourage you read. The main thing to remember though, is that if someone feels harassed or excluded by your words or actions, then those words or actions constitute harassment or exclusion. Your intent is *not* a factor.
 
 All LRUG participants are accountable for their own behaviour. If you’ve behaved badly elsewhere, that may count against you here, because of the effect it has on other attendees.
 
